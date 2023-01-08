@@ -1,0 +1,5 @@
+I do not claim the code within the PySEAL-master folder, apart from the files:
+
+/SEALPythonExamples/my_functions.py
+/SEALPythonExamples/main.py
+/SEALPythonExamples/function_unit_test.py
